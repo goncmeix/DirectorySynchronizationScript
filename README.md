@@ -37,6 +37,7 @@ This script uses standard Python libraries like argparse, filecmp, shutil, os, t
 2.	Clone this repository:
 
     git clone https://github.com/<your-github-username>/DirectorySynchronizationScript
+
 3.	Navigate to the directory where the script is located
 
 ## Usage
