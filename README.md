@@ -36,7 +36,8 @@ This script uses standard Python libraries like argparse, filecmp, shutil, os, t
 1.	Ensure you have Python 3.x installed. You can download it from python.org.
 2.	Clone this repository:
 
-    git clone https://github.com/<your-github-username>/DirectorySynchronizationScript
+    git clone https://github.com/goncmeix/DirectorySynchronizationScript
+
 3.	Navigate to the directory where the script is located
 
 ## Usage
