@@ -34,6 +34,7 @@ This script uses standard Python libraries like argparse, filecmp, shutil, os, t
 
 ## Installation
 1.	Ensure you have Python 3.x installed. You can download it from python.org.
+
 2.	Clone this repository:
 
     git clone https://github.com/goncmeix/DirectorySynchronizationScript
